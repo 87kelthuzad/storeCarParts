@@ -11,6 +11,10 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>MainPageServlet</servlet-name>
-        <url-pattern>/main_page</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
+    <!--<servlet-mapping>-->
+        <!--&lt;!&ndash;<servlet-name>MainPageServlet</servlet-name>&ndash;&gt;-->
+        <!--<url-pattern>/mainPage</url-pattern>-->
+    <!--</servlet-mapping>-->
 </web-app>
